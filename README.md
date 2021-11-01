@@ -125,3 +125,15 @@ Source : happyculteur.co
 * Rhododendron
 * Romarin
 * Thym
+
+## Novembre 
+
+* Aster
+* Bruyère d'hiver
+* Calune
+* Épiaire des bois
+* Nivéole de Printemps
+* Origan
+* Perce-neige
+* Populage des marais
+* Scille des prés
